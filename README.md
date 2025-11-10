@@ -18,7 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Usage
 
 1. Clone the file to computer
-`git clone`
+```git clone```
 
 2. Install dependencies
-`npm install`
+```npm install```
