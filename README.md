@@ -22,7 +22,7 @@ If you are developing a production application, we recommend using TypeScript wi
 git clone
 ```
 
-3. Install dependencies
+2. Install dependencies
 ```nano
 npm install
 ```
