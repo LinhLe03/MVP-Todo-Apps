@@ -18,7 +18,11 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Usage
 
 1. Clone the file to computer
-```git clone```
+```nano
+git clone
+```
 
-2. Install dependencies
-```npm install```
+3. Install dependencies
+```nano
+npm install
+```
